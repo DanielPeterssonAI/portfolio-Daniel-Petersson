@@ -1,3 +1,5 @@
+![header](untitled.png)
+
 # Daniel Petersson
 
 Well idk what to write but I this is my portfolio of Python projects. I might upload some JavaScript fun here later. 
