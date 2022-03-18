@@ -12,7 +12,7 @@ Basically I'm just a beginner in this huge world of data and algos. This GitHub 
 ## Portfolio
 | Repo                                   | Description                                                  |
 |----------------------------------------|--------------------------------------------------------------|
-| [RecommenderSystem/Disease Prediction] [mrs]| School Project in Machine Learning course               |
+| [RecommenderSystem/Disease Prediction][mrs]| School Project in Machine Learning course               |
 | [WebMNIST][webmnist]                   | Simple Python/JS-app to identify handwritten digits          |
 | [Maskininlärning][masknirl]            | Machine learning course at IT-Högskolan                      |
 | [OS Statistics Dashboard app][dash]    | Python/Dashboard app with statistics from the Olympic Games  |
