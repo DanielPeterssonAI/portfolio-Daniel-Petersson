@@ -12,7 +12,7 @@ Basically I'm just a beginner in this huge world of data and algos. This GitHub 
 ## Portfolio
 | Repo                                   | Description                                                  |
 |----------------------------------------|--------------------------------------------------------------|
-| [EvoMLP] [evomlp]                      | Small machine learning model with "genetic" learning         |
+| [EvoMLP][evomlp]                       | Small machine learning model with "genetic" learning         |
 | [RecommenderSystem/Disease Prediction][mrs]| School Project in Machine Learning course                |
 | [WebMNIST][webmnist]                   | Simple Python/JS-app to identify handwritten digits          |
 | [Maskininlärning][masknirl]            | Machine learning course at IT-Högskolan                      |
